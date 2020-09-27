@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的 GitHub 个人主页
 
-You can use the [editor on GitHub](https://github.com/zhao134679852/zhao134679852.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[博客园](https://www.cnblogs.com/zlc364624/) 
+[CSDN](https://blog.csdn.net/weixin_43847567) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 个人资料
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**姓名：赵路仓**
 
-- Bulleted
-- List
+**年龄：22**
 
-1. Numbered
-2. List
+**性别：男**
 
-**Bold** and _Italic_ and `Code` text
+**学校：石家庄铁道大学**
 
-[Link](url) and ![Image](src)
+**邮箱：398333404@qq.com**
+
+**QQ：3983333404**
+
+**手机：18395676887**
+
+**荣誉**
+- 英语四级
+- 普通话二级甲等
+- poonyNOTE软件著作权
+- 石家庄铁道大学“东软杯”程序设计大赛三等奖
+- 《电脑编程技巧与维护杂志》发表“Web开发提高网站性能的技巧”
+- 大三下学期二等奖学金
+
+
+### 学习方向
+  -Java开发
+  -数据可视化
+  -Python网络爬虫
+  
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhao134679852/zhao134679852.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
