@@ -17,7 +17,7 @@ CSDN点击这里→→[ 我的CSDN ](https://blog.csdn.net/weixin_43847567)
       <p><b>手机：18395676887</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/20200729153421.jpg" width="100%">      % 
     </td>
   </tr>
 </table>
@@ -42,8 +42,6 @@ CSDN点击这里→→[ 我的CSDN ](https://blog.csdn.net/weixin_43847567)
 
 
 
-  
- 
-```
+### **证书**
 
 
