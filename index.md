@@ -5,7 +5,7 @@
 CSDN点击这里→→[ 我的CSDN ](https://blog.csdn.net/weixin_43847567) 
 
 
-### 个人资料
+### **个人资料**
 <table border="0">
   <tr>
     <td width="75%">
@@ -22,18 +22,17 @@ CSDN点击这里→→[ 我的CSDN ](https://blog.csdn.net/weixin_43847567)
   </tr>
 </table>
 
-### 学习方向
+### **学习方向**
   -Java开发
+  
   -数据可视化
+  
   -Python网络爬虫
   
-```markdown
 
 
-****
 
-
-**荣誉**
+### **荣誉**
 - 英语四级
 - 普通话二级甲等
 - poonyNOTE软件著作权
