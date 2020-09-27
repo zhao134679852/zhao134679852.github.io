@@ -21,6 +21,12 @@ CSDN点击这里→→[ 我的CSDN ](https://blog.csdn.net/weixin_43847567)
     </td>
   </tr>
 </table>
+
+### 学习方向
+  -Java开发
+  -数据可视化
+  -Python网络爬虫
+  
 ```markdown
 
 
@@ -36,10 +42,7 @@ CSDN点击这里→→[ 我的CSDN ](https://blog.csdn.net/weixin_43847567)
 - 大三下学期二等奖学金
 
 
-### 学习方向
-  -Java开发
-  -数据可视化
-  -Python网络爬虫
+
   
  
 ```
