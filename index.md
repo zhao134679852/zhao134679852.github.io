@@ -1,13 +1,24 @@
 ## 欢迎来到我的 GitHub 个人主页
 
-[博客园](https://www.cnblogs.com/zlc364624/) 
-[CSDN](https://blog.csdn.net/weixin_43847567) 
+博客园点击这里→→[ 我的博客园 ](https://www.cnblogs.com/zlc364624/) \n
+CSDN点击这里→→[ 我的CSDN ](https://blog.csdn.net/weixin_43847567) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 个人资料
-
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>张三</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 ```markdown
 
 **姓名：赵路仓**
@@ -38,6 +49,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   -数据可视化
   -Python网络爬虫
   
+ 
 ```
 
 
